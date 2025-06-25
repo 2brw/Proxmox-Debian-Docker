@@ -2,3 +2,7 @@
 Selecciono idioma español.
 Usando todo el disco en una partición.
 Desmarco escritorio GNOME y marco tambien ssh.
+Añado el usuario al grupo sudo:
+# su - (passwd root)
+# usermod -aG sudo [usuario]
+# cierro sesión y vuelvo a abrir para que tengan efecto los cambios.
