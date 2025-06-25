@@ -1,0 +1,7 @@
+# Crear la VM en Proxmox
+Disco: 40Gb, VistIO
+Memoria: 4096
+CPU's: 4
+Red: Bridge
+Qemu: Activado
+Origen de ISO: Debian 12
