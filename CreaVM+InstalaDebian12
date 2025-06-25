@@ -1,0 +1,11 @@
+# Crear la VM en Proxmox
+Disco: 40Gb, VistIO
+Memoria: 4096
+CPU's: 4
+Red: Bridge
+Qemu: Activado
+Origen de ISO: Debian 12
+## Instalo S.O. básico:
+Selecciono idioma español.
+Usando todo el disco en una partición.
+Desmarco escritorio GNOME y marco tambien ssh.
